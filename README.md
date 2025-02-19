@@ -31,7 +31,7 @@ The dataset consists of **undergraduate admission survey data from Bangladesh**,
 
 2. **Model Training & Evaluation**  
    - **Logistic Regression** (Primary Model)  
-   - **Decision Tree, Random Forest, SVM, Neural Networks** (Comparison)  
+   - **Decision Tree, Random Forest, SVM, ** (Comparison)  
    - Performance metrics: **Accuracy, AUC, Confusion Matrix**  
 
 3. **Results & Interpretation**  
