@@ -6,12 +6,15 @@ This project analyzes **socio-economic factors influencing undergraduate univers
 ---
 
 ## **Dataset**  
-The dataset consists of **undergraduate admission survey data from Bangladesh**, covering factors such as:  
+The dataset consists of **Undergraduate admission survey data from Bangladesh**, covering factors such as:  
 - **Household income**  
 - **Parental education levels**  
 - **Location (urban/rural)**  
 - **SSC & HSC exam scores**  
-- **University preference (public/private)**  
+- **University preference (public/private)**
+- **Political involvement**
+- **Relationship**
+- **Social Media Engagement**
 
 ---
 
